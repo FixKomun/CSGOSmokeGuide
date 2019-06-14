@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CS:GO Active Duty Maps</string>
+
+    <string-array name="names">
+        <item>Smoke</item>
+        <item>Flash</item>
+        <item>Molly</item>
+        <item>Incendiary Grenade</item>
+    </string-array>
+</resources>
