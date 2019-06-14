@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/parent_layout2nd"
+    android:background="@drawable/textview_border"
+
+
+    >
+
+    <TextView
+        android:id="@+id/nadeName"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:textColor="#DDDDDD"
+        android:textSize="20dp"
+        android:text="Long Smoke"
+        android:gravity="center_vertical"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:paddingLeft="20dp"
+        android:background="#468694"
+        android:layout_marginVertical="1dp"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=">"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:textSize="25dp"
+        android:textColor="#DDDDDD"
+        android:layout_alignParentEnd="true"
+        android:paddingRight="15dp"/>
+
+
+    </RelativeLayout>
